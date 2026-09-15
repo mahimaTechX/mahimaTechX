@@ -3,7 +3,7 @@
 ### Hi! I'm Mahima Tomar, a B.Tech student and an aspiring software developer who enjoys turning concepts into practical projects.
 ### I started my development journey with Git & GitHub, moved into Core Java, and am now expanding my skills through SQL, DSA and Spring Boot.
 ### I believe in learning by building — understanding a concept, implementing it, breaking it, fixing it, and improving it. 🚀
-## My goal: ### Become a strong software developer, build meaningful products, and eventually work at the intersection of software development and AI.
+## My goal: Become a strong software developer, build meaningful products, and eventually work at the intersection of software development and AI.
 ## 🧭 My Current Journey
 Git & GitHub  ✅
       ↓
